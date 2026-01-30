@@ -13,7 +13,7 @@ I am a 2nd-year IT Design student at Kyiv Aviation University and I am starting 
 ## Projects
 
 ### Figma Project 1
-https://www.figma.com/design/cWPF5ZMBvC1x2lcNekWHjO/Untitled
+https://www.figma.com/design/cWPf5ZMBvC1x2lcNekWHjO/Untitled?node-id=0-1&t=t3mCr3R2Qn40bnHQ-1
 
 ### Figma Project 2
 https://www.figma.com/design/0QbHjtBkdv2xjewW9H1xta/Untitled
