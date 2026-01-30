@@ -30,8 +30,7 @@ I am actively developing my skills and building my design portfolio.
 ### 🎯 Figma Project 1
 UI design concept focused on layout and usability.
 
-🔗 https://www.figma.com/design/cWPF5ZMBvC1x2lcNekWHjO/Untitled
-
+🔗 https://www.figma.com/design/cWPf5ZMBvC1x2lcNekWHjO/Untitled?node-id=0-1&t=t3mCr3R2Qn40bnHQ-1
 ---
 
 ### 🎯 Figma Project 2
