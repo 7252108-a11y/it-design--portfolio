@@ -28,7 +28,7 @@ I am actively developing my skills and building my design portfolio.
 ## 📂 Projects
 
 ### ### 🎯 Figma Project 1
-![Typografic Project](assets/images/typografic.png)
+
 
 UI design concept focused on layout and usability.
 
@@ -36,7 +36,7 @@ UI design concept focused on layout and usability.
 ---
 
 ### ### 🎯 Figma Project 2
-![Landing Project](assets/images/landing.png)
+
 
 Interface design concept demonstrating layout and visual balance.
 
